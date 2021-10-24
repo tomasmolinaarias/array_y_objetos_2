@@ -81,6 +81,8 @@ const paciente_fonasa = dental.filter(function(dental){
 });
 // console.log(paciente_isapre.length)
 //-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-
+
+
 // document.getElementById("segundo_tabla").innerHTML = (dental.join("-"))
     for(e=0;e<dental.length ; e++){
     
